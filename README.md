@@ -5,8 +5,8 @@ to do this with no ADC, we can use a RC circuit, R will be input from joysticks 
 
 
 
-The circuit
-- https://easyeda.com/editor#id=9c0ca07733b341c99b19ee6c88a706eb
+The circuit is https://easyeda.com/editor#id=9c0ca07733b341c99b19ee6c88a706eb|cb8c65c8ba744130a871917f4e325e17
+
 
 
 
