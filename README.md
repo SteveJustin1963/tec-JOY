@@ -9,7 +9,5 @@ Parts
 circuit
 - https://easyeda.com/editor#id=9c0ca07733b341c99b19ee6c88a706eb
 
-Theory
-- https://en.wikipedia.org/wiki/RC_time_constant
 
 
