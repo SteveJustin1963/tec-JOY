@@ -1,6 +1,5 @@
 # tec-JOY
-In another project, tec-SCOPE, the first stage is to read an analogue joy stick input and convert it to xy h-bridge motor control. 
-to do this with no ADC, we can use a RC circuit, R will be input from joysticks variable 10k ohm pot and Cap is a constant, then charge up time constant for Cap = R*C in seconds.
+to read XY pots with no ADC, we can read and write to a port with an RC circuit timing the duration. R will be joysticks variable 10k ohm pot and Cap is a constant, then we discharge the port foirst write 0 to it then write 1 to it and then time the charge up time constant for the cap which = R*C in seconds. this gives us the xy positon, 
 
 
 
