@@ -1,6 +1,6 @@
 # tec-JOY
-In another project, tec-SCOPE, the first stage is to read an analogue joy stick input and convert it to xy h bridge motor control. 
-to do this with no ADC, we can use a RC circuit, R will be ip from joystick and C is a constant, tau=RC in seconds.
+In another project, tec-SCOPE, the first stage is to read an analogue joy stick input and convert it to xy h-bridge motor control. 
+to do this with no ADC, we can use a RC circuit, R will be input from joystick 10k ohm pot and C is a constant, tau=RC in seconds.
 
 there is a TE article For jobstick
 - http://www.talkingelectronics.com/projects/Joy%20Stick%20Controller/JoyStickController.html
