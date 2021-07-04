@@ -2,7 +2,12 @@
 
 ![](https://github.com/SteveJustin1963/tec-JOY/blob/master/pics/S1145.jpg)
 
-to read XY pots with no ADC, we can read and write to a port with an RC circuit timing the duration. R will be joysticks variable 10k ohm pot and Cap is a constant, then we discharge the port foirst write 0 to it then write 1 to it and then time the charge up time constant for the cap which = R*C in seconds. this gives us the xy positon, 
+A typical jojstick has 2 10k pots for XY. 
+by read and write 0 or 1 to a port we can charge an RC circuit. 
+by timing the duration it takes to charge or discharge the cap we can estimate the value of R and estimate the postion.
+the duration = r*c. so r=dur/c.
+
+we wtite to the port a 0 that discharges the cap, then we write 1 the port foirst write 0 to it then write 1 to it and then time the charge up time constant for the cap which = R*C in seconds. this gives us the xy positon, 
 
 
 
