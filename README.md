@@ -2,7 +2,7 @@
 
 ![](https://github.com/SteveJustin1963/tec-JOY/blob/master/pics/S1145.jpg)
 
-A typical jojstick has 2 10k pots for XY. 
+A typical jojstick has 2 of 10k pots for XY. 
 by read and write 0 or 1 to a port we can charge an RC circuit. 
 by timing the duration it takes to charge or discharge the cap we can estimate the value of R and estimate the postion.
 the duration = r*c. so r=dur/c.
