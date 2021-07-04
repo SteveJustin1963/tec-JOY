@@ -1,7 +1,5 @@
 ;
-;
-
-
+;psudo code
 
 org 0800H 
 
