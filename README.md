@@ -2,6 +2,8 @@
 
 ![](https://github.com/SteveJustin1963/tec-JOY/blob/master/pics/1.png) ![](https://github.com/SteveJustin1963/tec-JOY/blob/master/pics/2.png)
 
+draft do not use
+
 A typical jojstick has 2 of 10k pots for XY. 
 by read and write 0 or 1 to a port we can charge / discharge the C of an RC circuit. 
 by timing the duration it takes to charge or discharge a fixed value C we can estimate the value of R which estimates the postion.
