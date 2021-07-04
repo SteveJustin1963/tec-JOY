@@ -1,6 +1,6 @@
 # tec-JOY
 
-![](https://github.com/SteveJustin1963/tec-JOY/blob/master/pics/1.png) ![](https://github.com/SteveJustin1963/tec-JOY/blob/master/pics/1.png)
+![](https://github.com/SteveJustin1963/tec-JOY/blob/master/pics/1.png) ![](https://github.com/SteveJustin1963/tec-JOY/blob/master/pics/2.png)
 
 A typical jojstick has 2 of 10k pots for XY. 
 by read and write 0 or 1 to a port we can charge an RC circuit. 
