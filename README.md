@@ -15,6 +15,6 @@ The circuit is https://easyeda.com/editor#id=9c0ca07733b341c99b19ee6c88a706eb|cb
 
 ![](https://github.com/SteveJustin1963/tec-JOY/blob/master/pics/Schematic_tec-JOY_2021-07-04.png)
 
-![] (https://github.com/SteveJustin1963/tec-JOY/blob/master/pics/PCB_PCB_tec-JOY_2021-07-04.png)
+![](https://github.com/SteveJustin1963/tec-JOY/blob/master/pics/PCB_PCB_tec-JOY_2021-07-04.png)
 
 
