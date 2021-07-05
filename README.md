@@ -17,4 +17,5 @@ The circuit is https://easyeda.com/editor#id=9c0ca07733b341c99b19ee6c88a706eb|cb
 
 ![](https://github.com/SteveJustin1963/tec-JOY/blob/master/pics/PCB_PCB_tec-JOY_2021-07-04.png)
 
+The variable time rc is also proportional to how far the stick is pushed and can also serve as velocity of moving the input or position in a matrix. Most cases only need to know if it was a push not how far it went. So next cct will simplify the pot into a switch using comparators.
 
