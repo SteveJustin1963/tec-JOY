@@ -13,9 +13,6 @@ Also pressing down on the knob switch calls /INT and latches 0. The cap holds th
 
 The circuit is https://easyeda.com/editor#id=9c0ca07733b341c99b19ee6c88a706eb|cb8c65c8ba744130a871917f4e325e17
 
-![](https://github.com/SteveJustin1963/tec-JOY/blob/master/pics/Schematic_tec-JOY_2021-07-04.png)
-
-![](https://github.com/SteveJustin1963/tec-JOY/blob/master/pics/PCB_PCB_tec-JOY_2021-07-04.png)
-
 The variable time rc is also proportional to how far the stick is pushed and can also serve as velocity of moving the input or position in a matrix. Most cases only need to know if it was a push not how far it went. So next cct will simplify the pot into a switch using comparators.
 
+https://easyeda.com/editor#id=cca9828b1c6e4638a1293eedd4f90bbe|d5d747e4fdc64215b9a840fcd2c6e1cf
